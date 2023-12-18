@@ -1,4 +1,4 @@
-const Module = require("./asposeocr");
+const Module = require("./lib/asposeocr");
 var fs = require("fs");
 
 Module.onRuntimeInitialized = async _ => {

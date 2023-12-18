@@ -1,0 +1,1 @@
+node --no-experimental-fetch ./sample.js
